@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Katalysen",
+    "year": "2019",
+    "description": "This is the first project.",
+    "image": "katalysen.png",
+    "link": "https://projectone.com"
+  },
+  {
+    "id": 2,
+    "title": "Project Two",
+    "description": "This is the second project.",
+    "image": "project2.jpg",
+    "link": "https://projecttwo.com"
+  },
+  {
+    "id": 3,
+    "title": "Project Two",
+    "description": "This is the second project.",
+    "image": "project2.jpg",
+    "link": "https://projecttwo.com"
+  }
+]
